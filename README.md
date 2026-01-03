@@ -21,5 +21,5 @@ Fonctionnalités principales :
 1. **Cloner le projet :**
 
 ```bash
-git clone <TON_REPO_GITHUB>
-cd <NOM_DU_PROJET>
+git clone <kanban-vue-project>
+cd <kanban-vue-project>
